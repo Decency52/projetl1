@@ -1,2 +1,2 @@
-# projetl1
+# ENsemble de project initialise
 setting up git 
